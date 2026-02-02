@@ -42,8 +42,8 @@ This script uses the following free assets:
     close = true,
     description = 'Portable payment terminal for accepting payments',
     client = {
-			event = 'howsn_payterminal:client:useTerminal',
-		}
+		event = 'howsn_payterminal:client:useTerminal',
+	}
 },
 ```
 4. Configure the `config.lua` to your needs
@@ -93,3 +93,4 @@ targets = {
 This project is licensed under the MIT License - see the LICENSE file for details. 
 
 The payment terminal prop is subject to BzZz's free asset terms.
+
